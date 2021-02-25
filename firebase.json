@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "haub1809234",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
