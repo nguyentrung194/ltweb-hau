@@ -286,25 +286,6 @@ body {
   width: 98%;
   margin: 10px;
 }
-
-/* End css for bt1 */
-
-@media only screen and (min-width: 480px) {
-  .reponsive {
-    width: 550px;
-  }
-
-  .tkb {
-    width: 780px;
-  }
-
-  .reponsive-main-page {
-    width: 880px;
-  }
-}
-
-/* Start css for bt2 */
-
 table,
 td,
 th {
@@ -348,6 +329,24 @@ td:hover {
 .tab-with-data:hover {
   background: hsl(224, 69%, 60%);
 }
+
+/* End css for bt1 */
+
+@media only screen and (min-width: 480px) {
+  .reponsive {
+    width: 550px;
+  }
+
+  .tkb {
+    width: 780px;
+  }
+
+  .reponsive-main-page {
+    width: 880px;
+  }
+}
+
+/* Start css for bt2 */
 
 .elementForm {
   display: grid;
